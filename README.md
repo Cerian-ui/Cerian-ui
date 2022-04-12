@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 - 🌱 I’m currently learning JavaScript and C#
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: ela/dela - she/her
 
 
 <div align="center">
