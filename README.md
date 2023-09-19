@@ -1,5 +1,5 @@
 ### Hello, World! 👋
-- 🌱 I’m currently learning JavaScript and Java
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: ela/dela - she/her
 
 
